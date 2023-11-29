@@ -31,7 +31,7 @@
 
 ## Output:
 
-### Name:A.jeevith
+### Name:A.Jeevith
 ### Register Number:23014282
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
